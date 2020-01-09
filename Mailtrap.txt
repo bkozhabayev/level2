@@ -1,0 +1,4 @@
+login:
+	bakytzhan.kozhabayev@mail.ru
+pass: 
+	Kazakhstan777
